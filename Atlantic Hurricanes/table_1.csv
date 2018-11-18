@@ -1,0 +1,14 @@
+name,year,month,windspeed_mph,pressure_mbar,decade
+Hurricane #3,1853,August,150,924,decade_1851
+"""1856 Last Island Hurricane""",1856,August,150,934,decade_1851
+Hurricane #6,1866,September,140,938,decade_1861
+Hurricane #7,1878,September,140,938,decade_1871
+Hurricane #2,1880,August,150,931,decade_1871
+Hurricane #8,1880,September,140,928,decade_1871
+Hurricane #6,1882,October,140,975,decade_1881
+Indianola Hurricane of 1886,1886,August,155,925,decade_1881
+Hurricane #10,1893,September,130,948,decade_1891
+Hurricane #6,1894,October,130,931,decade_1891
+Hurricane #7,1898,September,130,930,decade_1891
+Hurricane #3,1899,August,150,930,decade_1891
+Galveston Hurricane of 1900,1900,August,145,936,decade_1891

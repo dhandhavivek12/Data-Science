@@ -1,0 +1,26 @@
+name,year,month,windspeed_mph,pressure_mbar,decade
+Hurricane Iris,2001,October,145,948,decade_2001
+Hurricane Michelle,2001,November,140,933,decade_2001
+Hurricane Lili,2002,October ,145,938,decade_2001
+Hurricane Fabian,2003,August,145,939,decade_2001
+Hurricane Charley,2004,August,150,941,decade_2001
+Hurricane Frances,2004,August,145,935,decade_2001
+Hurricane Karl,2004,September,145,938,decade_2001
+Hurricane Dennis,2005,July,150,930,decade_2001
+Hurricane Gustav,2008,August,155,941,decade_2001
+Hurricane Ike,2008,September,145,935,decade_2001
+Hurricane Omar,2008,October,130,958,decade_2001
+Hurricane Paloma,2008,November,145,944,decade_2001
+Hurricane Bill,2009,August,130,943,decade_2001
+Hurricane Danielle,2010,August,130,942,decade_2001
+Hurricane Earl,2010,August,145,927,decade_2001
+Hurricane Igor,2010,September,155,924,decade_2001
+Hurricane Julia,2010,September,140,948,decade_2001
+Hurricane Katia,2011,September,140,942,decade_2011
+Hurricane Ophelia,2011,October,140,940,decade_2011
+Hurricane Gonzalo,2014,October,145,940,decade_2011
+Hurricane Joaquin,2015,October,155,931,decade_2011
+Hurricane Nicole,2016,October,140,950,decade_2011
+Hurricane Harvey,2017,August,130,937,decade_2011
+Hurricane Jose,2017,September,155,938,decade_2011
+Hurricane Florence,2018,September,140,939,decade_2011

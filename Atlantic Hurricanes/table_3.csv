@@ -1,0 +1,24 @@
+name,year,month,windspeed_mph,pressure_mbar,decade
+Hurricane Charlie,1951,August,130,958,decade_1951
+Hurricane Easy,1951,September,150,937,decade_1951
+Hurricane Fox,1952,October,145,934,decade_1951
+Hurricane Hazel,1954,October,130,937,decade_1951
+Hurricane Connie,1955,August,140,944,decade_1951
+Hurricane Ione,1955,September,140,938,decade_1951
+Hurricane Carrie,1957,September,140,945,decade_1951
+Hurricane Cleo,1958,August,140,947,decade_1951
+Hurricane Daisy,1958,August,130,948,decade_1951
+Hurricane Helene,1958,September,130,934,decade_1951
+Hurricane Gracie,1959,September,140,950,decade_1951
+Hurricane Donna,1960,September,145,930,decade_1951
+Hurricane Betsy,1961,September,140,945,decade_1961
+Hurricane Esther,1961,September,145,927,decade_1961
+Hurricane Flora,1963,September,145,940,decade_1961
+Hurricane Cleo,1964,August,155,950,decade_1961
+Hurricane Dora,1964,August,130,942,decade_1961
+Hurricane Gladys,1964,September,145,945,decade_1961
+Hurricane Hilda,1964,September,150,941,decade_1961
+Hurricane Betsy,1965,August,155,941,decade_1961
+Hurricane Inez,1966,September,150,929,decade_1961
+Hurricane Carmen,1974,August,150,928,decade_1971
+Hurricane Gladys,1975,September,140,939,decade_1971

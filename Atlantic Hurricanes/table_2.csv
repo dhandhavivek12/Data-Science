@@ -1,0 +1,36 @@
+name,year,month,windspeed_mph,pressure_mbar,decade
+Hurricane #4,1906,August,130,950.0,decade_1901
+1910 Cuba hurricane,1910,October,150,924.0,decade_1901
+1915 Galveston hurricane,1915,August,145,940.0,decade_1911
+1915 New Orleans hurricane,1915,September,145,931.0,decade_1911
+1916 Texas hurricane,1916,August,130,932.0,decade_1911
+1917 Nueva Gerona hurricane,1917,September,150,928.0,decade_1911
+1919 Florida Keys hurricane,1919,September,150,927.0,decade_1911
+1921 Tampa Bay hurricane,1921,October,140,941.0,decade_1921
+1926 Nassau hurricane,1926,July,140,967.0,decade_1921
+Hurricane #4,1926,September,140,957.0,decade_1921
+1926 Miami hurricane,1926,September,150,930.0,decade_1921
+1926 Havana–Bermuda hurricane,1926,October,150,934.0,decade_1921
+1929 Bahamas hurricane,1929,September,155,924.0,decade_1921
+1930 Dominican Republic hurricane,1930,August,155,933.0,decade_1921
+1931 Belize hurricane,1931,September,130,952.0,decade_1931
+1932 Freeport hurricane,1932,August,150,935.0,decade_1931
+1932 San Ciprian hurricane,1932,September,145,943.0,decade_1931
+1933 Chesapeake–Potomac hurricane,1933,August,140,940.0,decade_1931
+1933 Treasure Coast hurricane,1933,August,140,945.0,decade_1931
+1933 Outer Banks hurricane,1933,September,140,947.0,decade_1931
+Hurricane #2,1935,August,130,955.0,decade_1931
+1935 Cuba hurricane,1935,September,140,945.0,decade_1931
+Hurricane #5,1939,October,140,941.0,decade_1931
+Hurricane #4,1941,September,130,957.0,decade_1941
+Hurricane #3,1943,August,140,,decade_1941
+1944 Great Atlantic hurricane,1944,September,145,933.0,decade_1941
+1944 Cuba–Florida hurricane,1944,October,145,937.0,decade_1941
+1945 Homestead hurricane,1945,September,130,949.0,decade_1941
+1947 Fort Lauderdale hurricane,1947,September,145,938.0,decade_1941
+1948 Bermuda–Newfoundland hurricane,1948,September,130,940.0,decade_1941
+September 1948 Florida hurricane,1948,September,130,940.0,decade_1941
+1949 Florida hurricane,1949,August,150,954.0,decade_1941
+Hurricane Dog,1950,September,145,943.0,decade_1941
+Hurricane Fox,1950,September,140,946.0,decade_1941
+Hurricane King,1950,October,130,955.0,decade_1941
